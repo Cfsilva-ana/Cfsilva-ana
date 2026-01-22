@@ -81,11 +81,14 @@ ESP32 · Sensores ECG (AD620)
 
 <div align="center">
 
-### Desenvolvimento
+### Development
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
@@ -102,7 +105,28 @@ ESP32 · Sensores ECG (AD620)
 </tr>
 </table>
 
-### Ferramentas
+### Frameworks & Platforms
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>ESP32 / IoT
+</td>
+<td align="center" width="96">
+<img src="https://www.chartjs.org/media/logo-title.svg" width="48"/><br>Chart.js
+</td>
+</tr>
+</table>
+
+### Tools
 <table>
 <tr>
 <td align="center" width="96">
@@ -121,6 +145,7 @@ ESP32 · Sensores ECG (AD620)
 </table>
 
 </div>
+
 
 ---
 
